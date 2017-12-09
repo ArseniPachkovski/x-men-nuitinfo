@@ -37,7 +37,7 @@ export default class SamColors extends React.Component {
                     buttonStyle={{marginTop:20}}
                     backgroundColor="green"
                     icon={{name: 'send'}}
-                    title='BUTTON WITH ICON' />
+                    title='VALIDER' />
             </View>
         );
     }
